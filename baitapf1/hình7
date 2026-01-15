@@ -4,6 +4,7 @@
 <title>tieu de trang wed</title>
 </head>
 <body>
+  <p><a href="D:\KIM HỒNG 12A11\index.html">Về trang chủ</a></p>
 <p>Ho ten: <input type="text" name="Hopten"></p>
 </body>
 </html>
